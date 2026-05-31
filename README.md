@@ -67,6 +67,32 @@ Supporting environmental and social sustainability goals.
 
 ## Author
 
+
+## Repository Structure
+
+```text
+docs/
+├── executive-summary
+├── business-model
+├── mathematical-model
+└── articles
+```
+
+## Included Documents
+
+* Executive Business Proposal
+* Mathematical Modeling
+* Economic Analysis
+* Sustainability Articles
+* Circular Retail Framework
+
+## Status
+
+Current Version: v1.0
+
+Development Stage: Concept Validation & Pilot Design
+
+
 Mostafa Seyedabadi
 
 Spring 2026
