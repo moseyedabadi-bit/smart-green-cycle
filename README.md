@@ -1,7 +1,12 @@
 
 # Smart Green Cycle
 
+A Circular Economy and Customer Retention Framework for Sustainable Retail
+
+![Smart Green Cycle Architecture](images/smart-green-cycle-diagram.png)
+
 ## Overview
+...
 
 Smart Green Cycle is a circular economy framework designed for retail chains and supermarkets.
 
