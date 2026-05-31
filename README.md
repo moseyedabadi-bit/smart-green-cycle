@@ -1,3 +1,4 @@
+https://github.com/moseyedabadi-bit/smart-green-cycle/blob/main/images/smart-green-cycle-diagram.png
 # Smart Green Cycle
 
 ## Overview
