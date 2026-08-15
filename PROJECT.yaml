@@ -1,0 +1,31 @@
+schema_version: 1
+project:
+  name: Smart-Green-Cycle
+  type: circular-economy-retail-framework
+  status: concept-validation-pilot-design
+  domains:
+    - circular-economy
+    - sustainable-retail
+    - reverse-logistics
+    - customer-retention
+    - esg
+  human_entry: README.md
+  ai_entry: llms.txt
+  ai_context: ai/project-overview.md
+  primary_documents:
+    - docs/executive-summary/executive-summary.md
+    - docs/mathematical-model/mathematical-model.md
+  author:
+    name: Mostafa Seyedabadi
+    role: Concept Steward / System Architect
+interpretation:
+  deployment_claim: false
+  measured_pilot_claim: false
+  assumptions_require_validation: true
+  placeholders_are_authoritative: false
+canonical_formats:
+  ai_analysis: markdown
+  office_documents: publication-or-draft-artifacts
+safety:
+  prohibit_secrets: true
+  prohibit_sensitive_customer_data: true
