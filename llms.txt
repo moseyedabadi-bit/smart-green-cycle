@@ -1,0 +1,32 @@
+# Smart Green Cycle
+
+Purpose: AI-readable entry point for a circular-economy and customer-retention framework for sustainable retail.
+
+Project type: conceptual business/system framework.
+Status: concept validation and pilot design.
+
+Recommended reading order:
+1. README.md
+2. PROJECT.yaml
+3. ai/project-overview.md
+4. ai/concepts.md
+5. docs/executive-summary/executive-summary.md
+6. docs/mathematical-model/mathematical-model.md
+7. data/kpi-list.md
+8. roadmap.md
+
+Core concepts:
+- shopping-bag return and reward
+- circular economy
+- reverse logistics
+- customer retention
+- retail sustainability
+- ESG alignment
+- recyclable material streams
+
+Interpretation rules:
+- Treat expected benefits as hypotheses/model outputs unless supported by measured pilot data.
+- Separate environmental claims, customer-retention assumptions, and financial assumptions.
+- Empty one-byte placeholder files are non-authoritative and should not be used as evidence.
+- Prefer Markdown sources for AI analysis; DOCX files are publication/draft artifacts unless explicitly identified as canonical.
+- Do not infer deployment or organizational adoption from the framework description.
